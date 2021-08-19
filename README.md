@@ -1,5 +1,5 @@
 
-<img src ="apitao-America-Cartoon-Png" width = "325px" align = "right">
+<img src ="CAP2.png" width = "325px" align = "right">
 
 ### Hi there, I'm Marcio Brenner [MB]
 
