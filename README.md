@@ -1,7 +1,30 @@
 
+### Hi there, I'm Marcio Brenner [MB]
+
+- Web Fullstack Developer Student at [Trybe](https://www.betrybe.com);
+
+##
+
 <img src ="github/raven35.png" width = "325px" align = "right">
 
-### Hi there, I'm Marcio Brenner [MB]
+🌱 **Learning:**
+- [x] Git&GitHub
+- [x] HTML5
+- [x] CSS3
+- [x] Javascript
+- [x] React
+- [ ] NoSQL
+- [ ] Node.js
+- [ ] Python
+- [ ] SQL
+- [ ] Algorithms and Data Structure
+- [ ] Next.js
+- [ ] Flutter
+  
+:school_satchel: **Main Tools:** Visual Studio Code and GitHub;
+
+##
+
 
 <div>
   <a href="https://github.com/mbrennerr">
