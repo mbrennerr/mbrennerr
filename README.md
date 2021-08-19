@@ -1,9 +1,8 @@
 
-<img src ="CAP2.png" width = "325px" align = "right">
+<img src ="github/CAP2.png" width = "325px" align = "right">
 
 ### Hi there, I'm Marcio Brenner [MB]
 
-##
 <div>
   <a href="https://github.com/mbrennerr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mbrennerr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
