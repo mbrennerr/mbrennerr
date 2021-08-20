@@ -5,7 +5,7 @@
 
 ##
 
-<img src ="github/raven35.png" width = "325px" align = "right">
+<img src ="github/raven35.png" width = "320px" align = "right">
 
 🌱 **Learning:**
 - [x] Git&GitHub
