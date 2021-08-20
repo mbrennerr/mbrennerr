@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Marcio Brenner [MB]
 
-- Web Fullstack Developer Student at [Trybe](https://www.betrybe.com);
+- Fullstack Developer Student at [Trybe](https://www.betrybe.com);
 
 ##
 
