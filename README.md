@@ -1,5 +1,5 @@
 
-### Hi there, I'm Marcio Brenner [MB]
+### Hi there, I'm Marcio Brenner [MB] 
 
 - Fullstack Developer Student at [Trybe](https://www.betrybe.com);
 
@@ -13,6 +13,7 @@
 - [x] CSS3
 - [x] Javascript
 - [x] React
+- [X] Redux
 - [ ] NoSQL
 - [ ] Node.js
 - [ ] Python
@@ -52,7 +53,11 @@
  </div>
     
   ##
-   <img src="https://komarev.com/ghpvc/?username=mbrennerr&color=green" alt="mbrenerr" /> 
+   <img src="https://www.codewars.com/users/mbrennerr/badges/micro" align = "center" />
+   <img src="https://komarev.com/ghpvc/?username=mbrennerr&color=green" alt="mbrenerr" align = "center" /> 
+   
+
+   
   
 
 
