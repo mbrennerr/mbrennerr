@@ -18,7 +18,8 @@
 - [ ] NoSQL
 - [ ] Node.js
 - [ ] Python
-- [ ] SQL
+- [X] SQL
+- [X] Type Script
 - [ ] Algorithms and Data Structure
 - [ ] Next.js
 - [ ] Flutter
