@@ -23,6 +23,7 @@
 - [ ] Algorithms and Data Structure
 - [ ] Next.js
 - [ ] Flutter
+- [x] OutSystems (basic)
   
 :school_satchel: **Main Tools:** Visual Studio Code and GitHub;
 
