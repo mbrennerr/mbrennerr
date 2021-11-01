@@ -1,5 +1,6 @@
+<img src ="github/mario_dev.gif"> 
 
-### Hi there, I'm Marcio Brenner [MB] 
+### Hi there, I'm Marcio Brenner AKA [MB] 
 
 - Fullstack Developer Student at [Trybe](https://www.betrybe.com);
 - Analysis and systems development at [Universidade Estácio](https://estacio.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas);
