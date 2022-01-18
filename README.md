@@ -30,6 +30,11 @@
 
 ##
 
+<details>
+  <summary>MyDevMetrics</summary>
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+</details>  
 
 <div>
   <a href="https://github.com/mbrennerr">
