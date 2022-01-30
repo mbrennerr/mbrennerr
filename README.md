@@ -1,6 +1,6 @@
 <img src ="github/mario_dev.gif"> 
-
-### Hi there, I'm Marcio Brenner AKA [MB] 
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%235B83F7&width=800&lines=Hi+there%2C+I'm+Marcio+Brenner+AKA+%5BMB%5D)](https://git.io/typing-svg)
 
 - Fullstack Developer Student at [Trybe](https://www.betrybe.com);
 - Analysis and systems development at [Universidade Estácio](https://estacio.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas);
