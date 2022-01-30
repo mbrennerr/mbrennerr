@@ -33,6 +33,8 @@
 <details>
   <summary>MyDevMetrics</summary>
   
+  <h2 align="center"><img src="https://media.giphy.com/media/U4q3ag4oAN37cEodFB/giphy.gif" width="50">Minhas atividades<img src="https://media.giphy.com/media/U4q3ag4oAN37cEodFB/giphy.gif" width="50"></h2>
+  
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2034%20mins-blue)
 
