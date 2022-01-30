@@ -37,19 +37,15 @@
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Million%20lines%20of%20code-blue)
+  
 
-**🐱 My GitHub Data** 
+  
+  <h2 align="center"><img src="https://media.giphy.com/media/U4q3ag4oAN37cEodFB/giphy.gif" width="50">Minhas atividades<img 
+  src="https://media.giphy.com/media/U4q3ag4oAN37cEodFB/giphy.gif" width="50"></h2>
+  
+  <a href="https://wakatime.com/@mbrennerr">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mbrennerr&theme=tokyonight"/>
 
-> 🏆 0 Contributions in the Year 2022
- > 
-> 📦 149.4 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 20 Public Repositories 
- > 
-> 🔑 1 Private Repository 
- > 
 **I'm a Night 🦉** 
 
 ```text
