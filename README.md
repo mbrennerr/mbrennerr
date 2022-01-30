@@ -14,16 +14,20 @@
 - [x] HTML5
 - [x] CSS3
 - [x] Javascript
-- [x] React
+- [x] ReactJS
 - [X] Redux
-- [ ] NoSQL
+- [X] Docker
 - [X] Node.js
-- [ ] Python
 - [X] SQL
-- [X] Type Script
+- [ ] Type Script
+- [ ] MongoDB
+- [ ] Python
 - [ ] Algorithms and Data Structure
 - [ ] Next.js
+- [ ] React Native
 - [ ] Flutter
+- [ ] SASS
+- [ ] Styled Component
 - [x] OutSystems (basic)
   
 :school_satchel: **Main Tools:** Visual Studio Code and GitHub;
