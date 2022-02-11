@@ -40,9 +40,9 @@
   <h2 align="center"><img src="https://media.giphy.com/media/U4q3ag4oAN37cEodFB/giphy.gif" width="50">Minhas atividades<img src="https://media.giphy.com/media/U4q3ag4oAN37cEodFB/giphy.gif" width="50"></h2>
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%2052%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
 
@@ -87,23 +87,22 @@ Sunday       20 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               28 hrs 56 mins      █████████████████████░░░░   85.98% 
-TypeScript               1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.76% 
-SQL                      1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.7% 
-JSON                     1 hr 7 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   3.34% 
-Markdown                 21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.05%
+JavaScript               8 hrs 32 mins       ███████████████████████░░   94.28% 
+JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.58% 
+Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.25% 
+SQL                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.85% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 🔥 Editors: 
-VS Code                  33 hrs 40 mins      █████████████████████████   100.0%
+VS Code                  9 hrs 3 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-sd-014-c-store-manager   25 hrs 14 mins      ██████████████████░░░░░░░   74.94% 
-sd-014-c-project-talker-m4 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.01% 
-Unknown Project          2 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.45% 
-url_shortener            1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.6%
+sd-014-c-store-manager   5 hrs 14 mins       ██████████████░░░░░░░░░░░   57.75% 
+sd-014-c-project-talker-m3 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   37.92% 
+Unknown Project          23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.33%
 
 💻 Operating System: 
-Linux                    33 hrs 40 mins      █████████████████████████   100.0%
+Linux                    9 hrs 3 mins        █████████████████████████   100.0%
 
 ```
 
@@ -123,7 +122,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/mbrennerr/mbrennerr/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/02/2022 18:44:35 UTC
+ Last Updated on 11/02/2022 18:43:27 UTC
 <!--END_SECTION:waka-->
 </details>  
 
