@@ -35,7 +35,7 @@
 - [X] Styled Component
 - [x] OutSystems (basic)
   
-:school_satchel: **Main Tools:** Visual Studio Code and GitHub;
+:school_satchel: **Main Tools:** Visual Studio Code, Git,GitHub;
 
 ##
 <h2 align="center"><img src="https://media.giphy.com/media/U4q3ag4oAN37cEodFB/giphy.gif" width="50">Minhas atividades<img src="https://media.giphy.com/media/U4q3ag4oAN37cEodFB/giphy.gif" width="50"></h2>
