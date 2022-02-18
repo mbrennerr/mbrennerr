@@ -27,8 +27,8 @@
 - [ ] Next.js
 - [ ] React Native
 - [ ] Flutter
-- [ ] SASS
-- [ ] Styled Component
+- [X] SASS
+- [X] Styled Component
 - [x] OutSystems (basic)
   
 :school_satchel: **Main Tools:** Visual Studio Code and GitHub;
