@@ -15,7 +15,10 @@
 <img src ="github/raven35.png" width = "210px" align = "right">
 
 🌱 **Learning:**
-- [x] Git&GitHub
+
+<div>
+  
+- [x] Git&GitHub   
 - [x] HTML5
 - [x] CSS3
 - [x] Javascript
@@ -24,6 +27,14 @@
 - [X] Docker
 - [X] Node.js
 - [X] SQL
+- [X] SASS
+- [X] Styled Component
+- [x] OutSystems (basic)
+  
+</div>
+<details>
+<summary>Pending</summary>
+  
 - [ ] Type Script
 - [ ] MongoDB
 - [ ] Python
@@ -31,9 +42,8 @@
 - [ ] Next.js
 - [ ] React Native
 - [ ] Flutter
-- [X] SASS
-- [X] Styled Component
-- [x] OutSystems (basic)
+</details>  
+
   
 :school_satchel: **Main Tools:** Visual Studio Code, Git,GitHub;
 
