@@ -1,6 +1,10 @@
 <img src ="github/mario_dev.gif"> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%235B83F7&width=800&lines=Hi+there%2C+I'm+Marcio+Brenner+AKA+%5BMB%5D)] (https://git.io/typing-svg)
+<div>
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%235B83F7&width=800&lines=Hi+there%2C+I'm+Marcio+Brenner+AKA+%5BMB%5D)
+
+</div>  
 
 
 - Fullstack Developer Student at [Trybe](https://www.betrybe.com);
