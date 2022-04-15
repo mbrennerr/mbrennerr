@@ -71,7 +71,7 @@
      <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-153%20hrs%2033%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12%20Million%20lines%20of%20code-blue)
 
@@ -116,19 +116,19 @@ Sunday       23 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Manaus
 
 💬 Programming Languages: 
-TypeScript               1 hr 26 mins        ██████████████████████░░░   90.91% 
-JSON                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
+TypeScript               49 mins             █████████████████████░░░░   85.04% 
+JSON                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   14.96%
 
 🔥 Editors: 
-VS Code                  1 hr 34 mins        █████████████████████████   100.0%
+VS Code                  57 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-sd-015-b-project-trybers-49 mins             █████████████░░░░░░░░░░░░   51.7% 
-sd-015-b-project-trybesmi40 mins             ██████████░░░░░░░░░░░░░░░   42.82% 
-Unknown Project          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.49%
+sd-015-b-project-trybers-49 mins             █████████████████████░░░░   85.11% 
+Unknown Project          5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.03% 
+sd-015-b-project-trybesmi3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.86%
 
 💻 Operating System: 
-Linux                    1 hr 34 mins        █████████████████████████   100.0%
+Linux                    57 mins             █████████████████████████   100.0%
 
 ```
 
@@ -148,7 +148,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/mbrennerr/mbrennerr/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/04/2022 18:46:55 UTC
+ Last Updated on 15/04/2022 18:47:07 UTC
 <!--END_SECTION:waka-->
 </details>  
 
