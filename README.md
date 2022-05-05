@@ -10,6 +10,14 @@
 - Fullstack Developer Student at [Trybe](https://www.betrybe.com);
 - Analysis and systems development at [Universidade Estácio](https://estacio.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas);
 
+
+<div align="center">
+
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mzw7qqi1vp24n4q1502af8xzg&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=mzw7qqi1vp24n4q1502af8xzg&redirect=true)
+
+  </div>
+
+
 ##
 
 <img src ="github/raven35.png" width = "210px" align = "right">
