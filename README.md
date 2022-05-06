@@ -26,19 +26,22 @@
 
 <div>
   
-- [x] Git&GitHub   
-- [x] HTML5
-- [x] CSS3
-- [x] Javascript
-- [x] Type Script
-- [x] ReactJS
-- [X] Redux
-- [X] Docker
-- [X] Node.js
-- [X] SQL
-- [X] SASS
-- [X] Styled Component
-- [x] OutSystems (enthusiastic 😆)
+- [x] Git & GitHub;   
+- [x] HTML5;
+- [x] CSS3;
+- [x] Javascript;
+- [x] Type Script;
+- [x] ReactJS;
+- [X] Redux;
+- [X] Docker;
+- [X] Node.js;
+- [X] Sequelize; 
+- [X] Express;  
+- [X] SQL;
+- [X] MySql;  
+- [X] SASS;
+- [X] Styled Component;
+- [x] OutSystems (enthusiastic 😆);
   
 </div>
 <details>
@@ -53,7 +56,7 @@
 </details>  
 
   
-:school_satchel: **Main Tools:** VSCode, Git, GitHub;
+:school_satchel: **Main Tools:** VSCode, Git, GitHub, Discord;
 
 ##
 <h2 align="center"><img src="https://media.giphy.com/media/U4q3ag4oAN37cEodFB/giphy.gif" width="50">Minhas atividades<img src="https://media.giphy.com/media/U4q3ag4oAN37cEodFB/giphy.gif" width="50"></h2>
