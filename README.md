@@ -30,6 +30,7 @@
 - [x] HTML5
 - [x] CSS3
 - [x] Javascript
+- [x] Type Script
 - [x] ReactJS
 - [X] Redux
 - [X] Docker
@@ -43,7 +44,6 @@
 <details>
 <summary>Pending</summary>
   
-- [ ] Type Script
 - [ ] MongoDB
 - [ ] Python
 - [ ] Algorithms and Data Structure
