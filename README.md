@@ -56,7 +56,7 @@
 </details>  
 
   
-:school_satchel: **Main Tools:** VSCode, Git, GitHub, Discord;
+:school_satchel: **Main Tools:** VSCode, Git, GitHub, Discord, Slack;
 
 ##
 <h2 align="center"><img src="https://media.giphy.com/media/U4q3ag4oAN37cEodFB/giphy.gif" width="50">Minhas atividades<img src="https://media.giphy.com/media/U4q3ag4oAN37cEodFB/giphy.gif" width="50"></h2>
