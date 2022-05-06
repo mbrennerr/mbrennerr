@@ -37,7 +37,7 @@
 - [X] SQL
 - [X] SASS
 - [X] Styled Component
-- [x] OutSystems (basic)
+- [x] OutSystems (enthusiastic 😆)
   
 </div>
 <details>
@@ -53,7 +53,7 @@
 </details>  
 
   
-:school_satchel: **Main Tools:** Visual Studio Code, Git,GitHub;
+:school_satchel: **Main Tools:** VSCode, Git, GitHub;
 
 ##
 <h2 align="center"><img src="https://media.giphy.com/media/U4q3ag4oAN37cEodFB/giphy.gif" width="50">Minhas atividades<img src="https://media.giphy.com/media/U4q3ag4oAN37cEodFB/giphy.gif" width="50"></h2>
