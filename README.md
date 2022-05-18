@@ -6,7 +6,7 @@
 
 </div>  
 
-<img src ="github/raven35.png" width = "100px" align = "right">
+<img src ="github/raven35.png" width = "150px" align = "right">
 
 
 - *Fullstack Developer Student at* [Trybe](https://www.betrybe.com);
@@ -51,6 +51,8 @@
 
 
 
+<br>
+<br>
 <details>
 
 <summary>🌱 Learning:</summary>
