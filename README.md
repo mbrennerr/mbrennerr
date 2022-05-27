@@ -1,15 +1,26 @@
 <!-- <img src ="github/mario_dev.gif">  -->
 
+<img src ="github/github-header-image(10).png">
+
 <div>
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%235B83F7&width=800&lines=Hi+there%2C+I'm+Marcio+Brenner+AKA+%5BMB%5D)
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=C229D2&lines=it's+gonna+be+LEGEN...wait4it...;...DARY!)](https://git.io/typing-svg)
+  
+<!-- texto em azul   -->
+<!--   [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=it's+gonna+be+LEGEN...wait4it;...DARY!)](https://git.io/typing-svg) -->
+  
+<!--   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%235B83F7&width=800&lines=Hi+there%2C+I'm+Marcio+Brenner+AKA+%5BMB%5D) -->
+<!--   editor usado para fazer o  typing 
+https://readme-typing-svg.herokuapp.com/demo/
+-->
 
 </div>  
 
 <img src ="github/raven35.png" width = "150px" align = "right">
 
 
-- *Fullstack Developer Student at* [Trybe](https://www.betrybe.com);
+- *Fullstack Development Student at* [Trybe](https://www.betrybe.com);
 - *Analysis and systems development at* [Universidade Estácio](https://estacio.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas);
 
 
