@@ -125,9 +125,9 @@ https://readme-typing-svg.herokuapp.com/demo/
  
   
      <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-253%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-254%20hrs%202%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12%20Million%20lines%20of%20code-blue)
 
@@ -135,7 +135,7 @@ https://readme-typing-svg.herokuapp.com/demo/
 
 > 🏆 241 Contributions in the Year 2022
  > 
-> 📦 291.5 kB Used in GitHub's Storage 
+> 📦 291.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -172,22 +172,22 @@ Sunday       63 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Manaus
 
 💬 Programming Languages: 
-JavaScript               6 hrs               █████████████████████░░░░   85.15% 
-Other                    51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.27% 
-Git                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.47% 
+JavaScript               6 hrs 22 mins       ██████████████████████░░░   90.17% 
+Other                    32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.72% 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.93% 
 TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09% 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
 
 🔥 Editors: 
-VS Code                  7 hrs 3 mins        █████████████████████████   100.0%
+VS Code                  7 hrs 4 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-sd-015-b-mongodb-commerce6 hrs 40 mins       ███████████████████████░░   94.63% 
-sd-015-b-project-delivery22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.28% 
+sd-015-b-mongodb-commerce4 hrs 38 mins       ████████████████░░░░░░░░░   65.57% 
+sd-015-b-project-delivery2 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   34.34% 
 sd-015-b-project-car-shop0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
 
 💻 Operating System: 
-Linux                    7 hrs 3 mins        █████████████████████████   100.0%
+Linux                    7 hrs 4 mins        █████████████████████████   100.0%
 
 ```
 
@@ -206,7 +206,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/mbrennerr/mbrennerr/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/06/2022 18:48:20 UTC
+ Last Updated on 04/06/2022 18:46:52 UTC
 <!--END_SECTION:waka-->
 </details>  
 
