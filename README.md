@@ -125,9 +125,9 @@ https://readme-typing-svg.herokuapp.com/demo/
  
   
      <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-279%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-287%20hrs%2031%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12%20Million%20lines%20of%20code-blue)
 
@@ -172,21 +172,19 @@ Sunday       63 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Manaus
 
 💬 Programming Languages: 
-TypeScript               1 hr 15 mins        ████████████████████░░░░░   79.62% 
-JSON                     14 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.55% 
-JavaScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.87% 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.55% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.42%
+TypeScript               9 hrs 33 mins       ███████████████████████░░   91.8% 
+JSON                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.93% 
+YAML                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.58% 
+JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.68%
 
 🔥 Editors: 
-VS Code                  1 hr 34 mins        █████████████████████████   100.0%
+VS Code                  10 hrs 24 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-sd-015-b-project-car-shop1 hr 25 mins        ██████████████████████░░░   91.05% 
-sd-015-b-project-delivery8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.95%
+sd-015-b-project-car-shop10 hrs 24 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    1 hr 34 mins        █████████████████████████   100.0%
+Linux                    10 hrs 24 mins      █████████████████████████   100.0%
 
 ```
 
@@ -205,7 +203,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/mbrennerr/mbrennerr/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/06/2022 18:51:39 UTC
+ Last Updated on 22/06/2022 18:51:38 UTC
 <!--END_SECTION:waka-->
 </details>  
 
