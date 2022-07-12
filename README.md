@@ -120,13 +120,13 @@ https://readme-typing-svg.herokuapp.com/demo/
 
   ##
   
- <details>
+
  
- <summary> My_Dev_Metrics: </summary>
+<summary> My_Dev_Metrics: </summary>
+<br> 
+<div> 
  
-  
- 
- <!--START_SECTION:waka-->
+<!--START_SECTION:waka-->
  
 ![Code Time](http://img.shields.io/badge/Code%20Time-323%20hrs%2058%20mins-blue)
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
@@ -209,9 +209,11 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
  Last Updated on 11/07/2022 18:53:26 UTC
+
 <!--END_SECTION:waka-->
  
-</details>
+</div>
+
 
 
 
