@@ -89,7 +89,7 @@ https://readme-typing-svg.herokuapp.com/demo/
 - [X] SASS;
 - [X] Styled Component;
 - [x] OutSystems (enthusiastic 😆);
-- [ ] MongoDB
+- [X] MongoDB
 - [ ] Python
 - [ ] Algorithms and Data Structure
 - [ ] Next.js
@@ -120,7 +120,7 @@ https://readme-typing-svg.herokuapp.com/demo/
 
   ##
   
-<details> 
+ 
  
   <summary> MyDevMetrics </summary>
  
@@ -129,9 +129,7 @@ https://readme-typing-svg.herokuapp.com/demo/
  <!--START_SECTION:waka-->
  
 ![Code Time](http://img.shields.io/badge/Code%20Time-323%20hrs%2058%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -212,8 +210,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 
  Last Updated on 11/07/2022 18:53:26 UTC
 <!--END_SECTION:waka-->
-
-</details>  
+ 
 
 
 
