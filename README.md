@@ -120,9 +120,9 @@ https://readme-typing-svg.herokuapp.com/demo/
 
   ##
   
+ <details>
  
- 
-  <summary> MyDevMetrics </summary>
+ <summary> My_Dev_Metrics: </summary>
  
   
  
@@ -211,7 +211,7 @@ HTML                     2 repos             ██░░░░░░░░░�
  Last Updated on 11/07/2022 18:53:26 UTC
 <!--END_SECTION:waka-->
  
-
+</details>
 
 
 
