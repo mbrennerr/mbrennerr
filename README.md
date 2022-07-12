@@ -125,7 +125,9 @@ https://readme-typing-svg.herokuapp.com/demo/
   <summary> MyDevMetrics </summary>
  
   
-     <!--START_SECTION:waka-->
+ 
+ <!--START_SECTION:waka-->
+ 
 ![Code Time](http://img.shields.io/badge/Code%20Time-323%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
