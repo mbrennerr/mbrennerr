@@ -129,7 +129,7 @@ https://readme-typing-svg.herokuapp.com/demo/
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-323%20hrs%2058%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12%20Million%20lines%20of%20code-blue)
 
@@ -174,21 +174,16 @@ Sunday       79 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Manaus
 
 💬 Programming Languages: 
-Python                   5 hrs 25 mins       ████████████████████████░   96.92% 
-CSV                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.61% 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.15% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16% 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
+Python                   0 secs              █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  5 hrs 35 mins       █████████████████████████   100.0%
+VS Code                  0 secs              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-sd-015-b-project-job-insi5 hrs 26 mins       ████████████████████████░   97.19% 
-sd-015-b-live-lectures   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.81%
+sd-015-b-project-job-insi0 secs              █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    5 hrs 35 mins       █████████████████████████   100.0%
+Linux                    0 secs              █████████████████████████   100.0%
 
 ```
 
@@ -207,7 +202,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/mbrennerr/mbrennerr/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/07/2022 18:48:05 UTC
+ Last Updated on 15/07/2022 18:50:18 UTC
 <!--END_SECTION:waka-->
  
 </div>
