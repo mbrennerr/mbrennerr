@@ -1,5 +1,5 @@
 
-# Marcio Brenner (mbrennerr)<img src="github/raven35.png" width="120" alt="avatar" align="right" />
+# Marcio Brenner (mb)<img src="github/raven35.png" width="120" alt="avatar" align="right" />
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="max-width: 40%;">
