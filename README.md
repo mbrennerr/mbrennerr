@@ -19,7 +19,7 @@
 
 ## Quick links
 
-- Portfolio: https://mbrennerr.vercel.app/
+- Portfolio: https://portfolio.mbrenner.com.br/
 - GitHub: https://github.com/mbrennerr
 - LinkedIn: https://www.linkedin.com/in/mbrennerr
 - Email: marciobrennerbusiness@gmail.com
