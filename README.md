@@ -23,6 +23,7 @@ https://readme-typing-svg.herokuapp.com/demo/
 <img src ="github/raven35.png" width = "150px" align = "right">
 
 
+
 - *Fullstack Development Student at* [Trybe](https://www.betrybe.com);
 - *Analysis and systems development at* [Universidade Estácio](https://estacio.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas);
 
